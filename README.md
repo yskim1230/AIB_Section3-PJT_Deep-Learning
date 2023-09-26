@@ -67,7 +67,7 @@ Review Text Data : 네이버 랭킹 추천순위가 높은 공기청정기를 �
 ![](https://velog.velcdn.com/images/malangcow/post/b11bac05-e509-4aad-a031-cbb8c219f037/image.png)
 
 
-## 3. 머신러닝 모델 작성
+## 3. 딥러닝 모델 작성
 ### (1) 제조사 기준
 > 
 * 감정 상태 분류 모델을 선언하고 학습
